@@ -1,7 +1,7 @@
 {
   "posts": [
     { "id": 1,
-      "Email": "kelompok3@gmail.com",
+      "email": "kelompok3@gmail.com",
       "phone": "123-4567-8910" }
   ],
   "comments": [
