@@ -1,9 +1,6 @@
 {
   "posts": [
-    { "id": 1,
-        "name": "Elma Herring",
-        "email": "elmaherring@unq.com",
-        "phone": "+1 (913) 497-2020" }
+    { "id": 1, "name": "Elma Herring", "email": "elmaherring@unq.com", "phone": "+1 (913) 497-2020" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
